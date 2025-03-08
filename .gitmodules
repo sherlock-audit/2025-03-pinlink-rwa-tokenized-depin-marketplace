@@ -1,0 +1,6 @@
+[submodule "marketplace-contracts/lib/forge-std"]
+	path = marketplace-contracts/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "marketplace-contracts/lib/openzeppelin-contracts"]
+	path = marketplace-contracts/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
